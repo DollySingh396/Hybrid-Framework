@@ -23,11 +23,11 @@
                     <artifactId>maven-compiler-plugin</artifactId>
                     <version>3.13.0</version>
                     <configuration>
-                        <suiteXMLFiles>
-                            <suiteXmlFile>
-                                <suite> testng.xml </suite>
-                            </suiteXmlFile>
-                        </suiteXMLFiles>
+<!--                        <suiteXMLFiles>-->
+<!--                            <suiteXmlFile>-->
+<!--                                <suite> testng.xml </suite>-->
+<!--                            </suiteXmlFile>-->
+<!--                        </suiteXMLFiles>-->
 
                     </configuration>
                 </plugin>
